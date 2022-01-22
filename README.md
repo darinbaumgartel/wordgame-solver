@@ -14,3 +14,7 @@ docker-compose up
 ```
 and go to http://localhost:8501/
 
+
+# Demo
+
+![](word-algo-demo.gif)
