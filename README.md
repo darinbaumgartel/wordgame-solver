@@ -15,7 +15,7 @@ docker-compose up
 and go to http://localhost:8501/
 
 # Live App
-Go to https://github.com/darinbaumgartel/wordgame-solver
+Go to https://darinbaumgartel.github.io/wordgame-solver/
 
 # Demo
 
