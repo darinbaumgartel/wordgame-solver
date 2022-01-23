@@ -14,7 +14,10 @@ docker-compose up
 ```
 and go to http://localhost:8501/
 
+# Live App
+Go to https://github.com/darinbaumgartel/wordgame-solver
 
 # Demo
 
 ![](word-algo-demo.gif)
+
